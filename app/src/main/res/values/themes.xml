@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TugasM6" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/green</item>
+    </style>
+
+    <style name="Theme.TugasM6" parent="Base.Theme.TugasM6" />
+</resources>
